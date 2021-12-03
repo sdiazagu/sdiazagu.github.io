@@ -3,6 +3,9 @@ body{
 }
 h1{
     text-align: center;
+    margin: 1%;
+    padding-top: .2%;
+    padding-bottom: 1.2%;
     border-bottom: 1px solid #2f2f2f;
     color: whitesmoke;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -10,6 +13,9 @@ h1{
 }
 p{
     text-align: center;
+    margin: 1%;
+    padding-top: .2%;
+    padding-bottom: 1.2%;
     border-bottom: 1px solid #2f2f2f;
     color: whitesmoke;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
