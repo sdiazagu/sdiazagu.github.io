@@ -3,14 +3,14 @@ body{
 }
 h1{
     text-align: center;
-    border: 2px solid aliceblue;
+    border-bottom: 2px solid aliceblue;
     color: antiquewhite;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 30;
 }
 p{
     text-align: center;
-    border: 2px solid aliceblue;
+    border-bottom: 2px solid aliceblue;
     color: whitesmoke;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 16;
